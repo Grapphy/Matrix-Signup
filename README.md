@@ -5,7 +5,7 @@ Replicates browser acivity using pure requests with `System.Net.Http.HttpClient`
 This is a rewrite of a previous script I made with Python3.9
 
 ### Requirements
-It requires any version of `Newtonsoft.Json` for JSON data parsing.
+It requires most recent version of `Newtonsoft.Json` for JSON data parsing.
 
 ### Example code
 
